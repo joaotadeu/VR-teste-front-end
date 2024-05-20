@@ -1,0 +1,13 @@
+{
+  "name": "cypress-vr",
+  "version": "1.0.0",
+  "description": "desafio vr front-end",
+  "main": "index.js",
+  "author": "João T S Pereira",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "allure-commandline": "^2.29.0",
+    "cypress": "^13.9.0"
+  }
+}
